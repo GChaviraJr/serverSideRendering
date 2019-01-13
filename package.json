@@ -1,0 +1,26 @@
+{
+  "name": "serverSideRendering",
+  "version": "1.0.0",
+  "description": "Making a SSR app with Next.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GChaviraJr/serverSideRendering.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GChaviraJr/serverSideRendering/issues"
+  },
+  "homepage": "https://github.com/GChaviraJr/serverSideRendering#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
